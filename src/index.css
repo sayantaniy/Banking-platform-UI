@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+    font-family:'Instrument sans'
+    
+}
+
+#right::-webkit-scrollbar{
+    display: none;
+}
