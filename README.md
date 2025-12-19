@@ -33,14 +33,4 @@ This project demonstrates **prospective customer segmentation** through a card-b
 
 ---
 
-## 📂 Project Structure
 
-```bash
-src/
-│── components/
-│   ├── Card.jsx
-│   ├── Section.jsx
-│
-│── App.jsx
-│── main.jsx
-│── index.css
